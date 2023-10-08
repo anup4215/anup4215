@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anup4215
 - 👀 I’m interested in Sr.Devops
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m also interested in DevSecOps & MLOps
 - 💞️ I’m looking to collaborate on Devops projects.
 - 📫 How to reach me anup4215
 
